@@ -1,0 +1,13 @@
+Package: ouzelr
+Type: Package
+Title: Provide access to the Ouzel Land Protection Database
+Version: 1.0
+Date: 2021-10-28
+Author: Christian Parker
+Maintainer: Who to complain to <chris@talloaks.io>
+Description:
+License: GPL (>=2)
+Imports:
+  rjson
+  RCurl
+  httr
